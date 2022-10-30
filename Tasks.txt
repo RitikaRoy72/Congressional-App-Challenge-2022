@@ -1,0 +1,50 @@
+- HTML Webpage + Php back-end
+- Create a navbar that encompasses basic aspects of everyday needs (done)
+  - Responsive navbar (done)
+  - Opens up a menu to add products (done)
+  - Creates a menu to view products 
+- Create a menu which users can enter products
+  - Open a form on clicking a button (done)
+  - Form heading should display the product entered (done)
+- Create a page to view products
+  - Has different paths based on type (done)
+  - Can view products in organized manner (done)
+  - Can delete products (done)
+- Form (done)
+  - Asks amount of products (done)
+  - Days to complete one product (done)
+  - Communicates information to php page (done)
+  - One form per category (done)
+- Php page
+  - Calculate the rate of usage (done)
+  - Save information to cvs  (done)
+  - Update information rather than create duplicates (done)
+- Notification
+  - Send a notification 2, 1 days before they run out
+
+- Add ons (done)
+  - log in (done)
+  - formatting product display
+  - adjust display based on screen
+
+
+References:
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tabs
+https://www.w3schools.com/howto/howto_js_tabs.asp
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_example_website
+https://htmlcolorcodes.com/
+https://www.geeksforgeeks.org/how-to-get-the-value-of-text-input-field-using-javascript/
+https://www.w3schools.com/tags/att_input_placeholder.asp
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+https://www.w3schools.com/jsref/jsref_isinteger.asp#:~:text=The%20Number.,Otherwise%20it%20returns%20false%20.
+https://www.infoworld.com/article/2077317/understanding-and-using-javascript-statements.html#ifelse
+https://www.w3schools.com/jsref/met_form_reset.asp
+https://www.w3schools.com/js/js_timing.asp
+https://www.w3schools.com/js/js_if_else.asp
+https://www.geeksforgeeks.org/javascript-number-isinteger-function/#:~:text=The%20Number.,%2C%20otherwise%2C%20it%20returns%20false.
+https://www.w3schools.com/jsref/jsref_isinteger.asp
+https://www.w3schools.com/tags/tag_select.asp
+
+
+
+get the value from other text fields in html, send them over in javascript functiont o php page, then redirect to main page
